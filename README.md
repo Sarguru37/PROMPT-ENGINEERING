@@ -51,8 +51,7 @@ Self-Attention Mechanism: Determines contextual relevance of words in a sequence
 Positional Encoding: Helps retain order in sequential data.
 
 Multi-Head Attention: Allows the model to focus on different parts of input data simultaneously.
-
-## Applications: Text generation, translation, summarization, code completion.
+Applications: Text generation, translation, summarization, code completion.
 
 ## 3. Generative AI Applications
 
